@@ -1,7 +1,5 @@
 import React, { useState, useRef, useCallback, useEffect } from "react";
 import {
-  ChakraProvider,
-  ColorModeScript,
   Box,
   Button,
   Container,
